@@ -1,6 +1,6 @@
 # 🎄 Soluciones para los Retos de Programación del AdventJS 2024
 
-Este repositorio contiene mis soluciones a los retos diarios del calendario de adviento de programación creado por @midudev. Cada día, desde el 1 hasta el 25 de diciembre, se presenta un nuevo desafío para ayudar a Santa. 🎅🎁
+Este repositorio contiene mis soluciones a los retos diarios del calendario de adviento de programación creado por [@midudev](https://github.com/midudev). Cada día, desde el 1 hasta el 25 de diciembre, se presenta un nuevo desafío para ayudar a Santa. 🎅🎁
 
 ## 🚀 Organización del Repositorio
 
